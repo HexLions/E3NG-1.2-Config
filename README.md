@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Klipper](https://img.shields.io/badge/Klipper-3D%20Printer-blue.svg)](https://www.klipper3d.org/)
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/exibiliar)
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/HexLions)
 
 A modern, feature-rich Klipper configuration for Ender 3 NG CoreXY printer with Orbiter 2.0 direct drive extruder, featuring 40+ advanced macros, intelligent LCD menu system, and comprehensive print management tools.
 
@@ -68,7 +68,7 @@ This configuration requires Klipper firmware. If you don't have it installed:
 
 ```bash
 cd ~/printer_data/config
-git clone https://github.com/exibiliar/klipper-ender3ng.git
+git clone https://github.com/HexLions/klipper-ender3ng.git
 cd klipper-ender3ng
 ```
 
@@ -643,11 +643,11 @@ Contributions are welcome! Here's how you can help:
 ### Ways to Contribute
 
 1. **Report Bugs**
-   - Found an issue? [Open an issue](https://github.com/exibiliar/klipper-ender3ng/issues)
+   - Found an issue? [Open an issue](https://github.com/HexLions/klipper-ender3ng/issues)
    - Include: Klipper version, printer model, error message, steps to reproduce
 
 2. **Suggest Features**
-   - Have an idea? [Start a discussion](https://github.com/exibiliar/klipper-ender3ng/discussions)
+   - Have an idea? [Start a discussion](https://github.com/HexLions/klipper-ender3ng/discussions)
    - Explain use case and benefits
 
 3. **Submit Pull Requests**
@@ -680,10 +680,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Exibiliar**
+**HexLions**
 
-- GitHub: [@exibiliar](https://github.com/exibiliar)
-- Project Link: [https://github.com/exibiliar/klipper-ender3ng](https://github.com/exibiliar/klipper-ender3ng)
+- GitHub: [@HexLions](https://github.com/HexLions)
+- Project Link: [https://github.com/HexLions/klipper-ender3ng](https://github.com/HexLions/klipper-ender3ng)
 
 ## 🙏 Acknowledgments
 
@@ -696,10 +696,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Support & Community
 
-- **Issues:** Found a bug? [Report it](https://github.com/exibiliar/klipper-ender3ng/issues)
-- **Discussions:** Questions or ideas? [Join discussion](https://github.com/exibiliar/klipper-ender3ng/discussions)
+- **Issues:** Found a bug? [Report it](https://github.com/HexLions/klipper-ender3ng/issues)
+- **Discussions:** Questions or ideas? [Join discussion](https://github.com/HexLions/klipper-ender3ng/discussions)
 - **Pull Requests:** Improvements welcome!
-- **Discord:** [Klipper Discord](https://discord.klipper3d.org/) - Find me as @exibiliar
+- **Discord:** [Klipper Discord](https://discord.klipper3d.org/) - Find me as @HexLions
 
 ## 📚 Useful Resources
 
